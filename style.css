@@ -1,0 +1,152 @@
+section{
+    display: flex;
+}
+section div{
+    padding: 40px  3%;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  width: 400px;
+  height: 300px;
+
+}
+.img{
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap:  30px;
+  scale: 1;
+  /* transition: all 0.9s; 
+  transition: background-color 0.3s ease; */
+
+
+  /* display: flex; */
+}
+/* .img input{
+  background-color: green;
+    border: 2px solid whitesmoke;
+  padding: 8px;
+} */
+button{
+  background-color: green;
+  border: 2px solid whitesmoke;
+padding: 12px;
+color: whitesmoke;
+
+}
+button:hover{
+  background-color: greenyellow;
+}
+
+.navigation{
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  background-color:darkolivegreen;
+  width: 100%;
+  height: 80px;
+display: flex;
+
+}
+.navigation h2{
+  margin-left:1210px;
+  color:bisque;
+  font-family: 'Times New Roman', Times, serif;
+
+
+}
+.navigation h1{
+  color: white;
+}
+#im10{
+  height: 200px;
+}
+
+#im12{
+
+  width: 300px;
+}
+footer{
+  background-color: black;
+  width: 100%;
+  height: 150px;
+}
+
+
+#instagram{
+  /* width: 10px;
+  height: 20px; */
+  padding: 10px;
+}
+#su1{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su2{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su3{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su4{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su5{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su8{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su9{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su10{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su12{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su13{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su14{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#su15{
+  margin-left: 30px;
+ padding: 12px;
+ width: 100px;
+ background-color: rgb(53, 3, 3);
+}
+#im15{
+  height: 200px;
+}
